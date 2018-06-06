@@ -1,0 +1,22 @@
+{
+  "name": "markup_workflow",
+  "homepage": "",
+  "authors": [
+    "goodinmech <goodinmech@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "html5shiv": "~3.7.3",
+    "normalize-scss": "normalize.scss#^4.0.3"
+  }
+}
